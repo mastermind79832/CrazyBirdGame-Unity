@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -72,8 +73,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -460,6 +461,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Background_1: -407774699277236136
+      Bird_02: -4869357254534750094
+      GameOver: 5327950094024008212
+      Background_0: 7870480730772048316
+      Bird_03: -6721728136321296765
+      FlappyBird: -1347233719151212251
+      Floor_0: 6615319868462110837
+      PipeGreen_1: -7450669156800766785
+      PlayButton: -4272707242783423304
+      PipeGreen_0: -5599750456436461424
+      GetReady: -7826287199498012479
+      Bird_01: 4018074224661003100
+      MoreInfo: 1726203059708922746
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
